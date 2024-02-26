@@ -1,0 +1,45 @@
+[
+    {
+      "id": "1",
+      "name": "Elegant Wedding Package",
+      "image": "https://i.ibb.co/fFj7KGd/wedding.jpg",
+      "price": "$5,000",
+      "short_description": "Our Elegant Wedding Package is designed to transform your special day into an unforgettable experience. With meticulous attention to detail, we offer a stunning venue adorned with exquisite decorations and floral arrangements that will leave you and your guests in awe. Our professional wedding planners will work closely with you to tailor every aspect of your celebration, from the elegant ceremony to the lavish reception. Indulge in a delectable gourmet menu and toast to your love with premium beverages. Trust us to make your wedding dreams come true and create cherished memories that will last a lifetime."
+    },
+    {
+      "id": "2",
+      "name": "Birthday Bash Extravaganza",
+      "image": "https://i.ibb.co/gRGNxF4/birthday.jpg",
+      "price": "$800",
+      "short_description": "Celebrate your special day with our Birthday Bash Extravaganza! We offer an all-inclusive package that takes the stress out of planning and ensures a memorable birthday party. Enjoy a vibrant and lively atmosphere with customizable themes and entertainment options. Our dedicated team will handle everything, from invitations to party favors. Treat your guests to a scrumptious buffet of their favorite dishes and a selection of mouthwatering cakes. Whether you're turning one or one hundred, make your birthday a spectacular event with us!"
+    },
+    {
+      "id": "3",
+      "name": "Anniversary Celebration Deluxe",
+      "image": "https://i.ibb.co/7jWNqB8/7528337.jpg",
+      "price": "$1,200",
+      "short_description": "Commemorate your years of love with our Anniversary Celebration Deluxe package. We understand the significance of this milestone, and we're here to help you celebrate it in style. Our elegant venue is the perfect backdrop for renewing your vows or reminiscing about your journey together. Our expert event planners will curate a personalized experience that reflects your unique love story. Enjoy a sumptuous gourmet dinner, live music, and a romantic ambiance that will rekindle the sparks of your love. This anniversary, let us create a cherished moment you'll treasure forever."
+    },
+    {
+      "id": "4",
+      "name": "Engagement Party Bliss celebration",
+      "image": "https://i.ibb.co/71hBmks/newlyweds-evening-celebration-wedding-cutting-cake-outdoors.jpg",
+      "price": "$1,000",
+      "short_description": "Begin your journey to forever with our Engagement Party Bliss package. Your engagement is a special moment that deserves to be celebrated in grand style. Our enchanting venue offers a magical atmosphere that sets the stage for your love story. Let our experienced event coordinators handle every detail, from the engagement party invitations to the captivating decor. Delight in a delectable feast and toast to your future together. Share your joy with family and friends in a celebration filled with love and happiness."
+    },
+    {
+      "id": "5",
+      "name": "Retirement Soiree Package",
+      "image": "https://i.ibb.co/1TL0jSn/beautiful-senior-birthday-party.jpg",
+      "price": "$600",
+      "short_description": "Bid farewell to your career in style with our Retirement Soiree Package. Retirement is a significant milestone, and we're here to help you celebrate it with grace and joy. Our elegant venue provides the perfect setting for your retirement party, adorned with decorations that honor your achievements. Our event planners will ensure a seamless celebration, from guest invitations to heartfelt speeches. Enjoy a delicious meal and raise a glass to your accomplishments and the adventures that lie ahead. Let us make your retirement party an unforgettable and well-deserved send-off."
+    },
+    {
+      "id": "6",
+      "name": "Milestone Birthday Celebration",
+      "image": "https://i.ibb.co/qBNxtxj/group-friends-throwing-powdered-color-air.jpg",
+      "price": "$1,500",
+      "short_description": "Mark a milestone birthday with an unforgettable celebration package. Whether you're turning 30, 40, 50, or beyond, this is a moment to cherish and celebrate. Our expert event planners will work closely with you to create a personalized and memorable birthday bash. Choose from a range of themes and entertainment options to suit your style. Indulge in a gourmet feast and enjoy a magnificent birthday cake that will make your day truly special. Invite your loved ones to join you in making memories that will last a lifetime."
+    }
+  ]
+  

@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Winter offer",
+        "image": "https://i.ibb.co/qBNxtxj/group-friends-throwing-powdered-color-air.jpg",
+        "price": "5000 $",
+        "offer": "30% of",
+        "twitter": "@alicejohnson"
+    },
+    {
+        "id": 2,
+        "name": "Summer offer",
+        "image": "https://i.ibb.co/1TL0jSn/beautiful-senior-birthday-party.jpg",
+        "price": "2500 $",
+        "offer": "20% of",
+        "twitter": "@bobsmith"
+    },
+    {
+        "id": 3,
+        "name": "late Autum offer",
+        "image": "https://i.ibb.co/7jWNqB8/7528337.jpg",
+        "price": "3500 $",
+        "offer": "30% of",
+        "twitter": "@charliebrown"
+    }
+    
+]
